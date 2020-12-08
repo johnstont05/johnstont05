@@ -5,10 +5,19 @@ Currently, I'm a data fellow at [The Center for Public Integrity](https://public
 team, to produce investigative journalism on issues of public concern.
 
 I currently reside in Cleveland, OH and graduated from Ohio University in 2020 with a Bachelor's degree in Journalism and Interactive Information Design. When I'm not creating a data visualization or sifting through a spreadsheet, I enjoy reading, discovering new music on Spotify, practicing my calligraphy or walking my dog, Burke.
+
 ### My skills include:
-
-
-
+<img align="left" alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
+<img align="left" alt="CSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
+<img align="left" alt="Bootstrap" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />
+<img align="left" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
+<img align="left" alt="D3.js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/d3-dot-js.svg" />
+<img align="left" alt="RStudio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rstudio.svg" />
+<img align="left" alt="PostgreSQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" />
+<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+<img align="left" alt="Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
+<br>
+  
 ### Get in touch:
 
 <a href="https://twitter.com/TF_Johnston">
