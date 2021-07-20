@@ -23,9 +23,6 @@ I currently reside in New York City and graduated from Ohio University in 2020 w
 <a href="https://www.linkedin.com/in/taylor-fay-johnston/">
   <img align="left" alt="Taylor's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/taylorfayjohnston/">
-  <img align="left" alt="Taylor's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 <a href="mailto:taylorfjohnston@gmail.com">
   <img align="left" alt="Taylor's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
