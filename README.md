@@ -1,7 +1,6 @@
 ## Taylor Johnston
 Hi, I'm Taylor – a journalist with the focus of telling impactful stories at the intersection of __data__ and __design__. 
 
-I currently reside in New York City and graduated from Ohio University in 2020 with Bachelor's degrees in Journalism and Interactive Information Design. When I'm not creating a data visualization or sifting through a spreadsheet, I enjoy reading, discovering new music on Spotify, practicing my calligraphy or walking my dog, Burke.
 
 ### My skills include:
 <img align="left" alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
